@@ -12,6 +12,8 @@
 
 <div style="font-size:15px"><b>پیشنیاز: </b>-</div>
 
+<span style="color:red;">This text is red</span> 
+
 ---------
 # الزامات:
 
